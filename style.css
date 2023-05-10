@@ -56,6 +56,7 @@ body {
     background-color: #cdccfd;
     color: #6f6df4;
     padding: 5px;
+    border-radius: 5px;
 }
 
 #bill {
